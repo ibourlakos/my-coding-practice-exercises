@@ -1,2 +1,6 @@
-# my-coding-practice-exercises
-Here I display the coding solutions I give in various practice apps, services, games etc.
+# practice-solutions
+
+My coding solutions practicing at:
+
+- HackerRank.com
+- LeetCode.com
